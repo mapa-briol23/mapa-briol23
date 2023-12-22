@@ -127,3 +127,26 @@
 <p align="center"><img height="50"src="paper plane.png"></p>
 <br>
 
+- Added by Mico 🥥
+
+ **git add [file]** : this command adds a file as it looks now to your next commit (stage).
+
+ <h5> Parameters/Options: </h5>
+
+```
+1. -f / --force,
+2. --sparse
+3. -i / --interactive
+4. -p / --patch
+5. -e / --edit
+```
+
+<h5><span style='color: violet;'> Example:: </span></h5>
+
+<img src="https://github.com/mapa-briol23/mapa-briol23/blob/main/git%20add.png">
+<br>
+<p align="center"><img height="50" src="paper plane.png"> </p>
+<br>
+
+**git status** : this command shows modified files in working directory, staged for your next commit.
+
