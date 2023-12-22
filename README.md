@@ -8,6 +8,11 @@
 
 <hr>
 
+<h2 align="center"> <span style='color: purple;'><i>" If you put your mind to it, you can accomplish anything." </i></span> </h2>
+<h5 align="center"> <span style='color: violet;'><i> ~ George McFly from Back to the Future (1985) </i></span> </h5>
+
+<hr>
+
 <h2> 📜<span style='color: pink;'><i>About Me</i></span> </h2>
 <img align="right" width="370"  height="220" src="miwa.gif">
 
