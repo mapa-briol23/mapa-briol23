@@ -43,7 +43,6 @@
 
 <img src="git init.png">
 <br>
-<br>
 <p align="center"><img height="50"src="paper plane.png"></p>
 <br>
 
@@ -62,7 +61,6 @@
 <h5><span style='color: violet;'> Example: </span></h5>
 
 <img src="git clone.png">
-<br>
 <br>
 <p align="center"><img height="50"src="paper plane.png"></p>
 <br>
@@ -83,7 +81,6 @@
 
 <img src="git branch.png">
 <br>
-<br>
 <p align="center"><img height="50"src="paper plane.png"></p>
 <br>
 
@@ -103,11 +100,10 @@
 
 <img src="git log.png">
 <br>
-<br>
 <p align="center"><img height="50"src="paper plane.png"></p>
 <br>
 
-- **git checkout [<branch>]** : this command enables you to change branches or recover working tree files.
+- **git checkout [< branch >]** : this command enables you to change branches or recover working tree files.
 
 <h5> Parameters/Options: </h5> 
 
@@ -122,7 +118,6 @@
 <h5><span style='color: violet;'> Example: </span></h5>
 
 <img src="git checkout.png">
-<br>
 <br>
 <p align="center"><img height="50"src="paper plane.png"></p>
 <br>
