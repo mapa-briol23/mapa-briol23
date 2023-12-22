@@ -127,7 +127,7 @@
 <p align="center"><img height="50"src="paper plane.png"></p>
 <br>
 
-<h4> Added by Mico 🥥 </h4>
+<h4> Added by Mico 🥥 (micoescsr) </h4>
 
  - **git add [file]** : this command adds a file as it looks now to your next commit (stage).
 
@@ -166,4 +166,3 @@
 <br>
 <p align="center"><img height="50" src="paper plane.png"> </p>
 <br>
-
