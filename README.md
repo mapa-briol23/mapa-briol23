@@ -1,168 +1,68 @@
-<p align="center"><img height="500" src="gojo.gif"></p>
+<p align="center">
+	<img height="280" src="gojo.gif" alt="Profile banner">
+</p>
 
-<hr>
+<h1 align="center">Ma. Anne Phaula A. Briol</h1>
 
-<h1> <span style='color: purple;'> Welcome!👋🏽 </span> </h1>
+<p align="center">
+	<i>Aspiring IT Professional | BSIT Student</i>
+</p>
 
-╰(*°▽°*)╯**Greetings!** I am **Ma. Anne Phaula A. Briol** but you may call me ***Phaula***. My primary goals include ***graduating college*** and having a successful and stable career as a ***web developer*** in the future.
+<p align="center">
+	<img src="https://img.shields.io/badge/Program-BSIT-2d6a4f?style=for-the-badge" alt="BSIT program">
+	<img src="https://img.shields.io/badge/Status-Undergraduate-a65f00?style=for-the-badge" alt="Undergraduate status">
+</p>
 
-<hr>
+---
 
-<h2 align="center"> <span style='color: purple;'><i>" If you put your mind to it, you can accomplish anything." </i></span> </h2>
-<h5 align="center"> <span style='color: violet;'><i> ~ George McFly from Back to the Future (1985) </i></span> </h5>
+##  Welcome!👋🏽
 
-<hr>
+╰(°▽°)╯Greetings! I am *Ma. Anne Phaula A. Briol* but you may call me **Phaula**. I am currently building my academic foundation and technical skills to pursue a stable and successful career as an **IT professional**.
 
-<h2> 📜<span style='color: pink;'><i>About Me</i></span> </h2>
-<img align="right" width="370"  height="220" src="miwa.gif">
+> "If you put your mind to it, you can accomplish anything."
+>
+> George McFly, *Back to the Future* (1985)
 
-- 📅***Age***: 20 years old
-- 🏫***College***: Mapua Malayan Colleges of Laguna
-- 📚***Program***: BSIT
-- 👩🏽‍💻***Languages Known***: Python, C#, C++
-- 💕***Interests***: K-Pop, anime, fictional books, many fandoms
-- 🧏🏽‍♀️***Hobbies***: Listening to music, watching shows, and reading books
-- 🎶***Favorite Song***: Fast Pace by SEVENTEEN
-- 📩***Email-address:*** ma.phaula.briol@gmail.com
+---
 
+## 👤 About Me
 
-<hr>
+<img align="right" width="340" height="205" src="miwa.gif" alt="Animated profile visual">
 
-<h2> ⚙<span style='color: pink;'><i>Git Commands Cheatsheet</i></span> </h2>
+- **Age:** 20 years old
+- **Current Goal:** Graduate college and grow into a reliable IT professional
+- **Interests:** K-Pop, anime, fictional books, and fandom communities
+- **Hobbies:** Listening to music, watching shows, and reading books
+- **Favorite Song:** *Girl Almighty* by One Direction
 
-<p align="center"><img height="400"src="typing.gif"></p>
+---
 
-- **git init** : this command enables you to create a git repository from of an existing directory.
+## 🎓 Education
 
-<h5><span style='color: violet;'> Parameters/Options: </span></h5> 
+- **Institution:** Mapua Malayan Colleges of Laguna
+- **Current Program:** Bachelor of Science in Information Technology (BSIT)
+- **Academic Focus:** Networking fundamentals, systems, and practical IT problem-solving
 
-```
-1. -q, --quiet
-2. --bare
-3. --object-format=<format>
-4. --template=<template-directory>
-5. -b <branch-name>, --initial-branch=<branch-name>
-```
+---
 
-<h5><span style='color: violet;'> Example: </span></h5>
+## 📜 Certifications
 
-<img src="git init.png">
-<br>
-<p align="center"><img height="50"src="paper plane.png"></p>
-<br>
+- **CompTIA Tech+ Certification** - CompTIA, 2025
+- **CCNA: Introduction to Networks** - Cisco Networking Academy, 2025
+- **Ethical Hacker** - Cisco Networking Academy, 2025
 
-- **git clone [url]** : this command allows you to replicate an existing repository on GitHub, containing every file, branch, and commit.
+---
 
-<h5> Parameters/Options: </h5> 
+## 🛠️ Technical Skills
 
-```
-1. -l, --local
-2. --no-hardlinks
-3. -s, --shared
-4. --reference[-if-able] <repository>
-5. --progress
-```
+- **💻 Programming Languages:** C#, Python, JavaScript, Assembly, C++
+- **🎨 Frontend:** HTML5, CSS3, JavaScript, React
+- **🧩 UI/UX:** Responsive Design, Wireframing, Prototyping (Figma)
+- **🗄️ Databases:** XAMPP, MySQL, Supabase, Oracle
+- **⚙️ Tools & Platforms:** GitHub, Figma, Visual Studio Code, Cisco Packet Tracer
 
-<h5><span style='color: violet;'> Example: </span></h5>
+---
 
-<img src="git clone.png">
-<br>
-<p align="center"><img height="50"src="paper plane.png"></p>
-<br>
+## 📫 Contact
 
-- **git branch [branch name]** : this command lets you make a new branch.
-
-<h5> Parameters/Options: </h5> 
-
-```
-1. -d, --delete
-2. --create-reflog
-3. --move
-4. -c, --copy
-5. --color[=<when>]
-```
-
-<h5><span style='color: violet;'> Example: </span></h5>
-
-<img src="git branch.png">
-<br>
-<p align="center"><img height="50"src="paper plane.png"></p>
-<br>
-
-- **git log** : this command enables you to view the version history for the current branch.
-
-<h5> Parameters/Options: </h5> 
-
-```
-1. --follow
-2. --no-decorate
-3. --decorate[=short|full|auto|no]
-4. --[no-]mailmap
-5. --source
-```
-
-<h5><span style='color: violet;'> Example: </span></h5>
-
-<img src="git log.png">
-<br>
-<p align="center"><img height="50"src="paper plane.png"></p>
-<br>
-
-- **git checkout [< branch >]** : this command enables you to change branches or recover working tree files.
-
-<h5> Parameters/Options: </h5> 
-
-```
-1. --ours, theirs
-2. -d, --detach
-3. -b <new-branch>
-4. -guess, --no-guess
-5. --orphan <new-branch>
-```
-
-<h5><span style='color: violet;'> Example: </span></h5>
-
-<img src="git checkout.png">
-<br>
-<p align="center"><img height="50"src="paper plane.png"></p>
-<br>
-
-<h4> Added by Mico 🥥 (micoescsr) </h4>
-
- - **git add [file]** : this command adds a file as it looks now to your next commit (stage).
-
- <h5> Parameters/Options: </h5>
-
-```
-1. -f / --force,
-2. --sparse
-3. -i / --interactive
-4. -p / --patch
-5. -e / --edit
-```
-
-<h5><span style='color: violet;'> Example: </span></h5>
-
-<img src="https://github.com/mapa-briol23/mapa-briol23/blob/main/git%20add.png">
-<br>
-<p align="center"><img height="50" src="paper plane.png"> </p>
-<br>
-
-- **git status** : this command shows modified files in working directory, staged for your next commit.
-
-<h5> Parameters/Options: </h5>
-
-```
-1. -s / --short
-2. -b / --branch
-3. -v / --verbose
-4. --show-stash
-5. --long
-```
-
-<h5><span style='color: violet;'> Example: </span></h5>
-
-<img src="https://github.com/mapa-briol23/mapa-briol23/blob/main/git%20status.png">
-<br>
-<p align="center"><img height="50" src="paper plane.png"> </p>
-<br>
+- **Email:** ma.phaula.briol@gmail.com
