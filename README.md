@@ -1,5 +1,5 @@
-<p align="center">
-	<img height="280" src="gojo.gif" alt="Profile banner">
+<p align="center" style="height: 280px; overflow: hidden; margin: 0;">
+	<img src="gojo.gif" alt="Profile banner" style="width: 100%; height: 100%; object-fit: cover; display: block;">
 </p>
 
 <h1 align="center">Ma. Anne Phaula A. Briol</h1>
@@ -21,19 +21,21 @@
 
 > "If you put your mind to it, you can accomplish anything."
 >
-> George McFly, *Back to the Future* (1985)
+> Marty McFly, *Back to the Future* (1985)
 
 ---
 
 ## 👤 About Me
 
-<img align="right" width="340" height="205" src="miwa.gif" alt="Animated profile visual">
+<img align="right" width="340" height="200" src="miwa.gif" alt="Animated profile visual">
 
-- **Age:** 20 years old
+- **Age:** 22 years old
 - **Current Goal:** Graduate college and grow into a reliable IT professional
 - **Interests:** K-Pop, anime, fictional books, and fandom communities
 - **Hobbies:** Listening to music, watching shows, and reading books
 - **Favorite Song:** *Girl Almighty* by One Direction
+
+<div style="clear: both;"></div>
 
 ---
 
@@ -47,9 +49,10 @@
 
 ## 📜 Certifications
 
-- **CompTIA Tech+ Certification** - CompTIA, 2025
-- **CCNA: Introduction to Networks** - Cisco Networking Academy, 2025
+- **Google Cloud Computing Foundations Certificate** - Google, April 2026
+- **CompTIA Tech+ Certification** - CompTIA, December 2025
 - **Ethical Hacker** - Cisco Networking Academy, 2025
+- **CCNA: Introduction to Networks** - Cisco Networking Academy, 2025
 
 ---
 
@@ -66,3 +69,18 @@
 ## 📫 Contact
 
 - **Email:** ma.phaula.briol@gmail.com
+- **LinkedIn:** [phaula-briol-0290a1308](https://www.linkedin.com/in/phaula-briol-0290a1308/)
+- **GitHub:** [mapa-briol23](https://github.com/mapa-briol23)
+- **Credly:** [ma-anne-phaula-briol](https://www.credly.com/users/ma-anne-phaula-briol)
+
+---
+
+## ✨ NOTE
+
+<p align="center" style="height: 280px; overflow: hidden; margin: 0;">
+	<img src="library.gif" alt="Closing visual" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+</p>
+
+> "Strive not to be a success but to be of value."
+>
+> Albert Einstein
